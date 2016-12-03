@@ -108,7 +108,7 @@ public class FirstMDP {
     	System.out.println("Best first method is: "+fmdp.bestFirstMethod(0.8)); //cool, gives best method
     	
     	
-    	//how to print the dimensions of an array
+    	//how to print the dimensions of an array.
     	int array[][][] = new int[3][4][5];
     	System.out.println(array.length+","+array[0].length+","+array[0][0].length);
     }
